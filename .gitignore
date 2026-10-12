@@ -1,0 +1,7 @@
+# Local environment and dependencies
+.DS_Store
+Thumbs.db
+node_modules/
+.vercel/
+.env
+.env.*
